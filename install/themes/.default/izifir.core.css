@@ -1,0 +1,13 @@
+.adm-izifir_settings .adm-main-menu-item-icon,
+.adm-izifir_settings.adm-main-menu-item-active .adm-main-menu-item-icon {
+    height: 47px;
+    background: url('icons/izifir.core/global.png') no-repeat 50% 0;
+    background-size: 40px auto;
+}
+.adm-izifir_settings:hover .adm-main-menu-item-icon,
+.adm-izifir_settings.adm-main-menu-item-active .adm-main-menu-item-icon {
+    background-position: 50% 0;
+}
+.adm-izifir_settings .adm-main-menu-item-text {
+    font-size: 10px;
+}
